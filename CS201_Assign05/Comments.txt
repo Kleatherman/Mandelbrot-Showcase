@@ -1,0 +1,6 @@
+Additional comments for Mandelbrot
+When I used mutiple threads I found that the image became vertically condensed, like it was being stuffed in a sandwich. I don't exactly know why but dividing the y values by
+64 seemed to bring back the image to its normal state. I used powers of two thinking 4 would be enough but instead I needed 64. My code for running a single thread remains in
+the code as a comment. File 6 is my successful single thread image and file 11 is my successful dual thread image. The rest are trials that I left in so you can follow my
+progress. I left the number of colored bits on in the console since I find it to be useful. This was an interesting project and while doing it was stressful I did actually 
+enjoy it. 
