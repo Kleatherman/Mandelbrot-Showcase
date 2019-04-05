@@ -1,1 +1,2 @@
 # Mandelbrot Showcase
+There are Png files attached to show the output when the proper coordinates are entered, and a text file to explain some things about the project. I believe the coordinates are  x1: -1.286667 y1: -0.413333 x2: -1.066667 y2: -0.193333, but I could be mistaken. If you intend to make your own image you will need the name it as "filename".png to have it be created as a photo. This lab was completed 4 months prior to uploading.
